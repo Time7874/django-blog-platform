@@ -42,11 +42,12 @@ A modern, fully functional **Django blogging platform** with dynamic API integra
 
 > Replace these with actual screenshots from your project  
 
-![Home Page](screenshots/home.png)  
-![Post Detail](screenshots/post_detail.png)  
+![Home Page](screenshots/home.png)   
 ![Create Post](screenshots/create_post.png)  
 ![Weather & News](screenshots/weather_news.png)  
-![Trending GIFs](screenshots/gifs.png)  
+![Trending GIFs](screenshots/gif.png)  
+![Login Page](screenshots/login.png) 
+![Register page](screenshots/register.png)
 
 ---
 
