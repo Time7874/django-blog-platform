@@ -25,6 +25,8 @@ A modern, fully functional **Django blogging platform** with dynamic API integra
 
 ---
 
+
+
 ## 🚀 Features
 
 - ✅ **User authentication**: Registration, login, logout  
@@ -174,4 +176,12 @@ blog_platform/
 ```
 
 ## ⚖ License
-This project is open-source under the MIT License.
+This project is open-source under the MIT License. 
+
+---
+
+## 🚀 NexVerix
+
+Built under **NexVerix**, a developer brand focused on building scalable, production-ready web applications and backend systems.
+
+> “Engineering modern web solutions with Django & Node.js.”
