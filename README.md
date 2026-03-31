@@ -69,7 +69,7 @@ A modern, fully functional **Django blogging platform** with dynamic API integra
 ### Clone the repo:
 
 ```bash
-git clone https://github.com/Time7874/django-blog-platform.git
+git clone https://github.com/nexverix/django-blog-platform.git
 cd django-blog-platform
 
 ```
